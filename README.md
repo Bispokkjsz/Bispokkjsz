@@ -1,5 +1,7 @@
 Hi My name is André Bispo
+
 Systems Development Student at Senai
+
 💻 Software Development student
 
 🎓 SENAI | Desenvolvimento de Sistemas
