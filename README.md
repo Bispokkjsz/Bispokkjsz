@@ -1,1 +1,17 @@
-Olá! Meu nome é André Bispo. =========================================================================================================================================== Estudante de Desenvolvimento de Sistemas na Senai ------------------------------------ 💻 Estudante de Desenvolvimento de Software 🎓 SENAI | Desenvolvimento de Sistemas 🐍 Aprendendo Python e fundamentos de programação ☁️ Interessado em Backend, Cloud e DevOps 🚀 Construindo, aprendendo e melhorando a cada dia * 🌍 Moro em São Paulo, Brasil * ✉️ Você pode me contatar pelo e-mail [andrevazbispo@gmail.com](mailto:andrevazbispo@gmail.com) * 🧠 Atualmente estou aprendendo como começar na carreira de Dev * 👥 Busco colaborações em Parcerias e projetos
+Hi My name is André Bispo
+Systems Development Student at Senai
+💻 Software Development student
+
+🎓 SENAI | Desenvolvimento de Sistemas
+
+🐍 Learning Python & programming fundamentals
+
+☁️ Interested in Backend, Cloud & DevOps
+
+🚀 Building, learning and improving every day
+
+🌍  I'm based in São Paulo, Brasil
+✉️  You can contact me at andrevazbispo@gmail.com
+🧠  I'm learning a como começar na carreira de Dev
+🤝  I'm open to collaborating on Parcerias e projetos
+
