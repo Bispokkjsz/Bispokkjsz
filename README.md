@@ -11,7 +11,9 @@ Systems Development Student at Senai
 🚀 Building, learning and improving every day
 
 🌍  I'm based in São Paulo, Brasil
-✉️  You can contact me at andrevazbispo@gmail.com
-🧠  I'm learning a como começar na carreira de Dev
-🤝  I'm open to collaborating on Parcerias e projetos
 
+✉️  You can contact me at andrevazbispo@gmail.com
+
+🧠  I'm learning a como começar na carreira de Dev
+
+🤝  I'm open to collaborating on Parcerias e projetos
