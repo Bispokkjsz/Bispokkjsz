@@ -1,6 +1,6 @@
 Hi My name is André Bispo
 
-  SYSTEMS DEVELOPMENT STUDENT AT SENAI
+  Systems Development Student at Senai
 
 🐍 Learning Python & programming fundamentals
 
