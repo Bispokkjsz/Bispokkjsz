@@ -1,15 +1,15 @@
-Hi My name is André Bispo
+Hi! I'm André Bispo
 
-  Systems Development Student at Senai
+  Systems Development Student at SENAI
 
 🐍 Learning Python & programming fundamentals
 
 ☁️ Interested in Backend, Cloud & DevOps
 
-🚀 Building, learning and improving every day
+🎯 Building my path in software development.
 
 🌍  I'm based in São Paulo, Brasil
 
 🧠  I'm learning how to start a career in Dev.
 
-🤝  I am open to collaborating on partnerships and projects.
+🤝 Open to learning, collaborating and working on projects.
