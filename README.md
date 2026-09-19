@@ -3,6 +3,7 @@
   Systems Development Student at SENAI
   
 
+
 🐍 Learning Python & programming fundamentals
 
 ☁️ Interested in Backend, Cloud & DevOps
